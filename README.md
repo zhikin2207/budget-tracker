@@ -9,10 +9,10 @@ An awesome application for tracking your budget which means optimization of your
 
 ## Built With
 
-* [ReactJs](https://reactjs.org/) - The web library used
-* [NodeJs](https://nodejs.org) - The server-side framework
+* [ReactJS](https://reactjs.org/) + [Redux](https://redux.js.org/) + [ImmutableJS](https://facebook.github.io/immutable-js/) - The web framework used
+* [NodeJS](https://nodejs.org) - The server-side framework
 * [Lodash](https://lodash.com/) - JavaScript utility
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
